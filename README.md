@@ -1,7 +1,7 @@
 
     
     Copyright 2018 justworx
-    This file is part of the trix project, distributed under
+    This file is part of the sak project, distributed under
     the terms of the GNU Affero General Public License.
     
     This program is free software: you can redistribute it and/or modify
@@ -22,9 +22,10 @@
 # sak
 
 SAK is an acronym. Can you guess it? Probably not from the contents.
-Well, there's more to add and eventually this may live up to it's
-acronym.
+Well, there's more to add and eventually sak may live up to it's
+name.
 
 For now, I'm just putting some stuff here that doesn't seem to 
 belong with the trix project, but that I don't want to lose!
 
+Hello?
